@@ -53,7 +53,7 @@ travelguideai/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/DeepikaNC/TravelGuideAI.git
+git clone https://github.com/santhija-01/santhija-01-Explore-with-AI-Custom-itineraries-for-your-next-journey.git
 cd TravelGuideAI
 ```
 
